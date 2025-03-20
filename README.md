@@ -26,7 +26,8 @@ This page provides access to a backup copy of the full Ukrainian localization fo
 > I really hope you understand, and that you understand that this is
 > important to us, especially right now.
 
-Huge Thanks to: nazar kapanacha, Suzuori, Ky3bMa_CKP9l6iH
-Thank you to all those who helped with the translation: DaHuJlo, salantar, [KDS] SuriKen, Pichu Games, Stepan Bandera, Skyri
+Huge Thanks to: `nazar kapanacha`, `Suzuori`, `Ky3bMa_CKP9l6iH`
+
+Thank you to all those who helped with the translation: `DaHuJlo`, `salantar`, `[KDS] SuriKen`, `Pichu Games`, `Stepan Bandera`, `Skyri`
 
 Localization File: [Click](https://github.com/craq47/osu-ukrainian-localisation/blob/main/uk-UA.txt)
