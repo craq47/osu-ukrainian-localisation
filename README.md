@@ -1,5 +1,5 @@
 # osu-ukrainian-localisation (backup)
-This page provides access to a backup copy of the full Ukrainian localization for the osu-stabile!
+This page provides access to a backup copy of the full Ukrainian localization for the osu-stable!
 
 Ця сторінка надає доступ до резервної копії повної української локалізації для стандартного клієнту osu!
 
