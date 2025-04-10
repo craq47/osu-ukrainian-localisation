@@ -34,4 +34,5 @@ Huge Thanks to: `nazar kapanacha`, `Suzuori`, `Ky3bMa_CKP9l6iH`, `Susuke`
 Thank you to all those who helped with the translation: `DaHuJlo`, `salantar`, `[KDS] SuriKen`, `Pichu Games`, `Stepan Bandera`, `Skyri`
 
 Localization File: [Click](https://github.com/craq47/osu-ukrainian-localisation/blob/main/uk-UA.txt)
+
 Original Post: [Click](https://osu.ppy.sh/community/forums/topics/1642593?n=1)
